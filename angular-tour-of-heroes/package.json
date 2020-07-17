@@ -23,7 +23,7 @@
     "@angular/router": "7.2.4",
     "angular-in-memory-web-api": "^0.5.4",
     "core-js": "^2.6.4",
-    "lodash": "^4.17.14",
+    "lodash": "^4.17.19",
     "rxjs": "^6.4.0",
     "zone.js": "~0.8.29"
   },
